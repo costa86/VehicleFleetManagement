@@ -1,5 +1,5 @@
-# VehicleFleetManagement
-Desktop software to manage vehicle fleet (maintenance, fuel entries, etc)
+# Vehicle Fleet Management
+Desktop software to manage vehicle fleets (maintenance, fuel entries, etc)
 ## Developed on Netbeans with Java Swing
 ### Functionalities:
 * Cars
@@ -11,3 +11,4 @@ Desktop software to manage vehicle fleet (maintenance, fuel entries, etc)
 * Tickets
 * Deliveries
 * Backup records on .csv files
+### Main class 
