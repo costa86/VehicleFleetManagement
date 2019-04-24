@@ -11,10 +11,11 @@ Desktop software to manage vehicle fleets (maintenance, fuel entries, etc)
 * Tickets
 * Deliveries
 * Backup records on .csv files
-### For distribuition
+### For distribution
 [Program ready to be used](GestaoFrota.jar)
 ### Main class 
 [Main menu](Tela/Menu.java)
+
 ### Screenshots
 #### Main menu
 ![main menu](menu.png)
